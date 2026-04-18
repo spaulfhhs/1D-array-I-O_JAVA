@@ -1,0 +1,5 @@
+Entering countData()
+Exiting countData(), count = 34
+In main(), count = 34
+Entering loadData()
+Exiting loadData()
