@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class 1DArrayIO_Main
+public class OneDArrayIO_Main
 {
 	public static int countData(String filename, BufferedWriter logFile) throws IOException
 	{
